@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Lecture 3- Marcus Aurelius, Meditations.mp3";		
+f[2]	= "02 Lecture 3- Marcus Aurelius, Meditations.mp3";		
+f[3]	= "03 Lecture 3- Marcus Aurelius, Meditations.mp3";		
+f[4]	= "04 Lecture 3- Marcus Aurelius, Meditations.mp3";		
+f[5]	= "05 Lecture 3- Marcus Aurelius, Meditations.mp3";		
+f[6]	= "06 Lecture 3- Marcus Aurelius, Meditations.mp3";		
+f[7]	= "07 Lecture 4- Bhagavad Gita.mp3";		
+f[8]	= "08 Lecture 4- Bhagavad Gita.mp3";		
+f[9]	= "09 Lecture 4- Bhagavad Gita.mp3";		
+f[10]	= "10 Lecture 4- Bhagavad Gita.mp3";		
+f[11]	= "11 Lecture 4- Bhagavad Gita.mp3";		
+f[12]	= "12 Lecture 4- Bhagavad Gita.mp3";		
