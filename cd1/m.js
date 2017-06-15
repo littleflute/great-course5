@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Bonhoeffer, Letters and Papers From Prison.mp3";		
+f[2]	= "02 Bonhoeffer, Letters and Papers From Prison.mp3";		
+f[3]	= "03 Bonhoeffer, Letters and Papers From Prison.mp3";		
+f[4]	= "04 Bonhoeffer, Letters and Papers From Prison.mp3";		
+f[5]	= "05 Bonhoeffer, Letters and Papers From Prison.mp3";		
+f[6]	= "06 Bonhoeffer, Letters and Papers From Prison.mp3";		
+f[7]	= "07 Homer, Iliad.mp3";		
+f[8]	= "08 Homer, Iliad.mp3";		
+f[9]	= "09 Homer, Iliad.mp3";		
+f[10]	= "10 Homer, Iliad.mp3";		
+f[11]	= "11 Homer, Iliad.mp3";		
+f[12]	= "12 Homer, Iliad.mp3";		
