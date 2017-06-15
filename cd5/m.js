@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Beowulf.mp3";		
+f[2]	= "02 Beowulf.mp3";		
+f[3]	= "03 Beowulf.mp3";		
+f[4]	= "04 Beowulf.mp3";		
+f[5]	= "05 Beowulf.mp3";		
+f[6]	= "06 Beowulf.mp3";		
+f[7]	= "07 Book of Job.mp3";		
+f[8]	= "08 Book of Job.mp3";		
+f[9]	= "09 Book of Job.mp3";		
+f[10]	= "10 Book of Job.mp3";		
+f[11]	= "11 Book of Job.mp3";		
+f[12]	= "12 Book of Job.mp3";		
