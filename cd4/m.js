@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Koran.mp3";		
+f[2]	= "02 Koran.mp3";		
+f[3]	= "03 Koran.mp3";		
+f[4]	= "04 Koran.mp3";		
+f[5]	= "05 Koran.mp3";		
+f[6]	= "06 Koran.mp3";		
+f[7]	= "07 Gilgamesh.mp3";		
+f[8]	= "08 Gilgamesh.mp3";		
+f[9]	= "09 Gilgamesh.mp3";		
+f[10]	= "10 Gilgamesh.mp3";		
+f[11]	= "11 Gilgamesh.mp3";		
+f[12]	= "12 Gilgamesh.mp3";		
