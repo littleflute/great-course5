@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 11-1 Aeschylus, Oresteia.mp3";		
+f[2]	= "02 11-2 Aeschylus, Oresteia.mp3";		
+f[3]	= "03 11-3 Aeschylus, Oresteia.mp3";		
+f[4]	= "04 11-4 Aeschylus, Oresteia.mp3";		
+f[5]	= "05 11-5 Aeschylus, Oresteia.mp3";		
+f[6]	= "06 11-6 Aeschylus, Oresteia.mp3";		
+f[7]	= "07 12-1 Euripides, Bacchae.mp3";		
+f[8]	= "08 12-2 Euripides, Bacchae.mp3";		
+f[9]	= "09 12-3 Euripides, Bacchae.mp3";		
+f[10]	= "10 12-4 Euripides, Bacchae.mp3";		
+f[11]	= "11 12-5 Euripides, Bacchae.mp3";		
+f[12]	= "12 12-6 Euripides, Bacchae.mp3";		
